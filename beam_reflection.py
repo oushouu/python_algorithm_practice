@@ -72,10 +72,10 @@ def if_inner(h,w,now):
 conditions = input()
 con_list = conditions.split(' ')
 h = int(con_list[0])
-w = int(con_list[2])
+w = int(con_list[1])
 matrix = []
 for row in range(h):
-将网格以一个二维列表的形式保存
+#将网格以一个二维列表的形式保存
     mirror = input()
     mirror_list = list(mirror)
     matrix.append(mirror_list)
