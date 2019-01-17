@@ -1,6 +1,6 @@
 """
 来源：某日本编程网站（不让公开原题） 难度：A级
-代码运行结果：我写的以下代码并没有通过全部的测试案例，但我始终没有发现问题在哪，因为我觉得这个算法的逻辑是很严谨的。
+代码运行结果：全部通过。
 
 问题描述：
 给一个h（高）*m（宽）个数小正方形组成的矩形网格，每一个小正方形区域中可摆放两种方向的镜子‘/’和‘\’，或者也可以不摆镜子。
@@ -70,7 +70,7 @@ def if_inner(h,w,now):
     return flag
         
 conditions = input()
-con_list = list(conditions)
+con_list = conditions.split(' ')
 h = int(con_list[0])
 w = int(con_list[2])
 matrix = []
