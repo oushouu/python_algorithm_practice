@@ -8,6 +8,6 @@ Here I put the my code of some algorithm problems I've met just in order to revi
 
 These questions are mainly collected from Noecoder.com and P****.com
 
-このレポジトリには、今まで自分で解かしたアルゴリズム問題のコードです。自分が勉強とレビューするためにアップロードしました。
+このレポジトリには、今まで自分で解かした一部のアルゴリズム問題のコードです。自分が勉強とレビューするためにアップロードしました。
 
-問題の出所は中国の「牛客」と日本のあるイニシャルPサイトです。
+問題のメイン出所は中国の「牛客」と日本のあるイニシャルPサイトです。
